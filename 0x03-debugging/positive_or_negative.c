@@ -1,5 +1,6 @@
+
 #include "main.h"
-/*@positif_or_negative function*/
+
 void positive_or_negative(int n)
 {
 if (n > 0)
